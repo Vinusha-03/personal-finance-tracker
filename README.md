@@ -17,6 +17,7 @@ The Personal Finance Tracker provides a simple dashboard to record and manage fi
 * Calculate monthly income, expenses, and savings.
 * Categorize expenses for better tracking.
 * Store transaction records in MongoDB.
+* Visualize expense distribution using interactive pie charts.
 
 ## Technologies Used
 
@@ -27,6 +28,8 @@ The Personal Finance Tracker provides a simple dashboard to record and manage fi
 * HTML
 * Jinja2
 * python-dotenv
+* Chart.js
+* JavaScript
 
 ## Project Structure
 
