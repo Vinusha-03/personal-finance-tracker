@@ -14,6 +14,8 @@ app = Flask(__name__)
 
 # Read MongoDB connection string
 mongo_uri = os.getenv("MONGO_URI")
+if not mongo_uri:
+    raise ValueError("MONGO_URI is missing. Check your .env file.")
 
 # Connect to MongoDB
 client = MongoClient(
