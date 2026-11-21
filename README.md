@@ -132,6 +132,30 @@ Each transaction contains information such as:
 ## Limitations
 
 This is an educational single-user project. It currently uses a fixed user ID and does not implement user authentication or multi-user access.
+---
+
+## Screenshots
+
+### 1. Main Dashboard
+
+![Main Dashboard](dashboard.png)
+
+### 2. Add New Transaction
+
+![Add New Transaction](add-new-transaction.png)
+
+### 3. Edit Transaction
+
+![Edit Transaction](edit-transaction.png)
+
+### 4. Expense Distribution – Pie Chart
+
+![Expense Pie Chart](expense-pie-chart.png)
+
+### 5. Transaction History
+
+![Transaction History](transaction-history.png)
+
 
 ## Author
 
