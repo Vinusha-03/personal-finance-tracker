@@ -142,7 +142,7 @@ This is an educational single-user project. It currently uses a fixed user ID an
 
 ### 2. Add New Transaction
 
-![Add New Transaction](add-new-transaction.png)
+![Add New Transaction](add_new_transaction.png)
 
 ### 3. Edit Transaction
 
@@ -150,7 +150,7 @@ This is an educational single-user project. It currently uses a fixed user ID an
 
 ### 4. Expense Distribution – Pie Chart
 
-![Expense Pie Chart](expense-pie-chart.png)
+![Expense Pie Chart](monthly-expense-pie-chart.png)
 
 ### 5. Transaction History
 
